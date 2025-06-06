@@ -1,0 +1,5 @@
+pyspark==3.4.1
+Flask==2.3.3      
+Werkzeug==2.3.8     
+gunicorn==22.0.0
+numpy==1.26.4
